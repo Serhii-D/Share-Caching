@@ -1,0 +1,13 @@
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.exe
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.deps.json
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.json
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.runtimeconfig.dev.json
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.dll
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\bin\Debug\netcoreapp3.1\Caching.pdb
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfoInputs.cache
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.AssemblyInfo.cs
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.csproj.CoreCompileInputs.cache
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.dll
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.pdb
+C:\Users\serghiy.dmytryshyn\source\repos\Share-Caching\Caching\Caching\obj\Debug\netcoreapp3.1\Caching.genruntimeconfig.cache
